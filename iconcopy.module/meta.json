@@ -6,6 +6,6 @@
   "icon" : "../mV0_d-web-default-modules_hubspot/img/icon/certification.svg",
   "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
   "module_id" : 174081162413,
-  "label" : "Hubspot Dev Account Test",
+  "label" : "Hubspot Dev Account Test New",
   "is_available_for_new_content" : true
 }
