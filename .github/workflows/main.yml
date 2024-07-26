@@ -13,5 +13,5 @@ jobs:
         with:
           src_dir: iconcopy.module
           dest_dir: iconcopy.module
-          portal_id: 46890248
-          personal_access_key: CiQwYWRlMzdkMS1iODEyLTRjMmYtOGQ0NC1mODJmYTEyYzlhMWIQiPqtFhiy1qgVKhkABeaRgu9D4JfdZb52fjsxA0YxOH1XlTA3SgNuYTE
+          portal_id: 24267298
+          personal_access_key: CiQxMDhiNTA0ZC04YjdjLTQ5NTUtYmNhYy1iZjNlMzQ0MTQ4ODQQopTJCxiy1qgVKhkABeaRghg4sN4c5LwfCFnLVk89ZD5REL5RSgNuYTE
